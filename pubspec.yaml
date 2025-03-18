@@ -1,4 +1,4 @@
-name: sms_flutter
+name: sms_flutter_plus
 description: "A Flutter plugin to send and receive SMS and manage permissions."
 version: 1.0.0
 homepage: https://github.com/mgh-devs/SMSFlutterPlugin

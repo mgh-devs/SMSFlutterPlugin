@@ -1,7 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:sms_flutter/sms_flutter.dart';
-import 'package:sms_flutter/sms_flutter_platform_interface.dart';
-import 'package:sms_flutter/sms_flutter_method_channel.dart';
+import 'package:sms_flutter_plus/sms_flutter_platform_interface.dart';
+import 'package:sms_flutter_plus/sms_flutter_method_channel.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
 class MockSmsFlutterPlatform

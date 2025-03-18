@@ -1,5 +1,5 @@
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
-import 'package:sms_flutter/sms_flutter_method_channel.dart';
+import 'package:sms_flutter_plus/sms_flutter_method_channel.dart';
 
 abstract class SmsFlutterPlatform extends PlatformInterface {
   /// Constructs a SmsFlutterPlatform.
